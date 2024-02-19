@@ -13,13 +13,6 @@ I'm FaMaXx, **Developer** and **Designer**.
             </ul>
             <a href="https://discord.gg/ucX9c5yXmX">
                 <img alt="Discord presence" src="https://lanyard.cnrad.dev/api/659771751806271510" />
-            </a>
-        </td>
-        <td>
-            <a href="https://app.daily.dev/license"><img src="<a href="https://api.daily.dev/devcards/v2/ze6HUdhqXbDvEh1VQ4AUy.png?type=default&r=u48" width="300" alt="FaMaXx Dev Card"/></a>
-        </td>
-    </tr>
-</table>
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AntoineKM&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8)
