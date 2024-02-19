@@ -12,7 +12,7 @@ I'm FaMaXx, **Developer** and **Designer**.
                 <li>❤️ <a href="https://github.com/AntoineKM">Open Source</a> enthusiast</li>
             </ul>
             <a href="https://discord.gg/ucX9c5yXmX">
-                <img alt="Discord presence" src="https://lanyard.cnrad.dev/api/623154662765232128" />
+                <img alt="Discord presence" src="https://lanyard.cnrad.dev/api/659771751806271510" />
             </a>
         </td>
         <td>
