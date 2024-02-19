@@ -7,10 +7,6 @@ I'm FaMaXx, **Developer** and **Designer**.
     <tr>
         <td valign="center">
             <ul>
-                <li>👨🏾‍🎓 Student at <a href="https://needfor-school.com">Need for School</a></li>
-                <li>👨🏾‍💼 Co-founder at <a href="https://onruntime.com">onRuntime</a> and <a href="https://tonightpass.com">Tonight Pass</a></li>
-                <li>❤️ <a href="https://github.com/AntoineKM">Open Source</a> enthusiast</li>
-            </ul>
             <a href="https://discord.gg/ucX9c5yXmX">
                 <img alt="Discord presence" src="https://lanyard.cnrad.dev/api/659771751806271510" />
 
