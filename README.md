@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
+I'm FaMaXx, **Developer** and **Designer**.
 
 ## ☕ About
 <table align="center">
