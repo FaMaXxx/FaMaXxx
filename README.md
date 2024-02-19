@@ -16,7 +16,7 @@ I'm FaMaXx, **Developer** and **Designer**.
             </a>
         </td>
         <td>
-            <a href="https://app.daily.dev/license"><img src="https://api.daily.dev/devcards/596041d3f5e043558779d2aee99fd297.png?r=74d" width="300" alt="Antoine Kingue's Dev Card"/></a>
+            <a href="https://app.daily.dev/license"><img src="" width="300" alt="Antoine Kingue's Dev Card"/></a>
         </td>
     </tr>
 </table>
