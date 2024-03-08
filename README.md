@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm FaMaXx, **Developer** and **Designer**.
+I'm FaMaXx, **Developer**.
 
 ## ☕ About
 <table align="center">
