@@ -2,8 +2,6 @@
 
 I'm FaMaXx, **Developer**.
 
-# 🏄‍♂️ Skoozz
-
 **`On m'a dit que j'étais un homme à tout faire ^^`**
 
 Depuis petit, j'ai trouvé vocation dans l'informatique. Toujours été passionné dans cet univers et je souhaite en faire mon métier. Développeur et étudiant en Administration Réseaux.
