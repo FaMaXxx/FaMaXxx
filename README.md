@@ -7,7 +7,7 @@ I'm FaMaXx, **Developer**.
 Depuis petit, j'ai trouvé vocation dans l'informatique. Toujours été passionné dans cet univers et je souhaite en faire mon métier. Développeur et étudiant en Administration Réseaux.
 
    <p align="left">
-      <a href="https://www.youtube.com/skoozzyt?sub_confirmation=1">
+      <a href="https://www.youtube.com/channel/UCbGSKxBKpzyYuaOQ6KBMF_A">
          <img alt="youtube" title="Ma chaîne YouTube" src="https://img.shields.io/badge/SUBSCRIBE-ME?style=for-the-badge&logo=youtube&color=red&link=https%3A%2F%2Fx.com%2Fskoozztv"/></a> 
       <a href="https://www.x.com/skoozztv">
          <img alt="x" title="Compte X" src="https://img.shields.io/badge/FOLLOW-ME?style=for-the-badge&logo=x&color=blue&link=https%3A%2F%2Fx.com%2Fskoozztv"/></a> 
