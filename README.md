@@ -16,7 +16,6 @@ I'm FaMaXx, **Developer**.
 ### 🚧 Projets en cours
 
 <img align="left" alt="Git" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/FIVEM-A?style=for-the-badge&logo=fivem&logoColor=white&color=orange" />
-#
 
 ### 🧰 Languages de prog. et outils pratiqués
 
