@@ -2,10 +2,6 @@
 
 I'm FaMaXx, **Developer**.
 
-**`On m'a dit que j'étais un homme à tout faire ^^`**
-
-Depuis petit, j'ai trouvé vocation dans l'informatique. Toujours été passionné dans cet univers et je souhaite en faire mon métier. Développeur et étudiant en Administration Réseaux.
-
    <p align="left">
       <a href="https://www.youtube.com/channel/UCbGSKxBKpzyYuaOQ6KBMF_A">
          <img alt="youtube" title="Ma chaîne YouTube" src="https://img.shields.io/badge/SUBSCRIBE-ME?style=for-the-badge&logo=youtube&color=red&link=https%3A%2F%2Fx.com%2Fskoozztv"/></a> 
