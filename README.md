@@ -2,6 +2,8 @@
 
 I'm FaMaXx, **Developer**.
 
+# 🏆 Investor 👾 NFT & Crypto 🇫🇷 Based in Toulouse
+
    <p align="left">
       <a href="https://www.youtube.com/channel/UCbGSKxBKpzyYuaOQ6KBMF_A">
          <img alt="youtube" title="Ma chaîne YouTube" src="https://img.shields.io/badge/SUBSCRIBE-ME?style=for-the-badge&logo=youtube&color=red&link=https%3A%2F%2Fx.com%2Fskoozztv"/></a> 
