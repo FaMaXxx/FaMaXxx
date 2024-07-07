@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm FaMaXx, **Developer**.
-
-# 🏄‍♂️ Skoozz
+# I'm FaMaXx, **Developer**.
 
 **`On m'a dit que j'étais un homme à tout faire ^^`**
 
