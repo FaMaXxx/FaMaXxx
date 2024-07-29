@@ -2,8 +2,10 @@
 
 # I'm FaMaXx, **Developer**.
 
-🏆 Investor 
-👾 NFT & Crypto  
+- 🏆 Investor 
+
+- 👾 NFT & Crypto  
+
 - Based in Toulouse
 
    <p align="left">
