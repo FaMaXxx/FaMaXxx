@@ -2,7 +2,9 @@
 
 I'm FaMaXx, **Developer**.
 
-# 🏆 Investor 👾 NFT & Crypto 🇫🇷 Based in Toulouse
+# 🏆 Investor 
+👾 NFT & Crypto  
+- Based in Toulouse
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCbGSKxBKpzyYuaOQ6KBMF_A">
