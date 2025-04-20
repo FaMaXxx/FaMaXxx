@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm FaMaXx, **Developer**.
+# I'm FaMaXx.
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCbGSKxBKpzyYuaOQ6KBMF_A">
